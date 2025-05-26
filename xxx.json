@@ -58,8 +58,10 @@
   {
       "key": "量子",
       "name": "少说话😎多做事",
-      "type": 1,
+      "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
       "jar":"./jar/XYQ.jar",
       "categories": [
         "伦理片"
