@@ -55,13 +55,14 @@
       "playerType": 1,
       "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="
     },
- {
+  {
       "key": "量子",
       "name": "少说话😎多做事",
       "type": 3,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
+      "jar":"./jar/XYQ.jar",
       "categories": [
         "伦理片"
       ]
