@@ -58,7 +58,7 @@
   {
       "key": "量子",
       "name": "少说话😎多做事",
-      "type": 3,
+      "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
