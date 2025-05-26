@@ -1,19 +1,40 @@
 
 {
-"spider":"./jar/XYQ.jar",
+"spider":"./jar/spider.jar",
+"wallpaper": "生活就像骑自行车，想不摔倒，就得一直蹬。",
 
 "lives":[
-	{"name":"05151","type":0,"url":"https://p.ntnas.top/https://raw.githubusercontent.com/哈哈哈淡定.txt"},
-	{"name":"05152","type":0,"url":"https://p.ntnas.top/https://raw.githubusercontent.com/哈哈哈淡定.txt"},
-	{"name":"05153","type":0,"url":"https://p.ntnas.top/https://raw.githubusercontent.com/哈哈哈淡定.txt"},
+  {"name":"05151","type":0,"url":"https://p.ntnas.top/https://raw.githubusercontent.com/哈哈哈淡定.txt"},
+  {"name":"05152","type":0,"url":"https://p.ntnas.top/https://raw.githubusercontent.com/哈哈哈淡定.txt"},
+  {"name":"05153","type":0,"url":"https://p.ntnas.top/https://raw.githubusercontent.com/哈哈哈淡定.txt"},
 ],
 
 
 "categories":["福利","福利片","伦理片"],
 "sites":[
+  {
+      "key": "二三",
+      "name": "古片🐔短剧",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+    },
+    {
+      "key": "时常",
+      "name": "超常🐔谍快",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8YXNnY3hoamt0czEyNDU3M3xhc2djeGhqa3RzMTI0NTczfDEwMQ=="
+    },
  {
       "key": "量子",
-      "name": "少说话多做事",
+      "name": "少说话😎多做事",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -22,17 +43,23 @@
         "伦理片"
       ]
     },
-	{
+  {
       "key": "说明",
       "name": "不定时更新福利哈哈哈",
       "type": 0,
       "api": "",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
-	}
+      "searchable": 0,
+      "changeable": 0
+     
+  },
+  {
+      "key": "说明",
+      "name": "若卡顿-清理缓存",
+      "type": 0,
+      "api": "",
+      "searchable": 0,
+      "changeable": 0
+  }
 ],
 
 //
