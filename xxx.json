@@ -55,14 +55,25 @@
       "playerType": 1,
       "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="
     },
-  {
+   {
       "key": "量子",
       "name": "少说话😎多做事",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
-      "jar":"./jar/XYQ.jar",
+      "jar" : "./jar/XYQ.jar",
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "非凡",
+      "name": "伦理三级👙",
+      "type": 0,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
       "categories": [
         "伦理片"
       ]
