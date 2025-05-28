@@ -55,6 +55,62 @@
       "playerType": 1,
       "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="
     },
+    {
+      "key": "木叶",
+      "name": "尊嘟😊",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "saHR0cDovLzExMy40NS4yNDMuMjMzL211eWUudHh0fFJ1TjlMUnZ3VFJncFFucEt8UnVOOUxSdndUUmdwUW5wS3w1NDc="
+    },
+    {
+      "key": "米兔",
+      "name": "备胎😃",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly93d3cuempjLmFwcHxhYjRlOWE0MjE2NzVmMTRifGFiNGU5YTQyMTY3NWYxNGJ8NDQy"
+    },
+     {
+      "key": "光速",
+      "name": "赢麻😏",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cDovLzU5LjE1My4xNjcuMTM3Ojg4OTl8NGQ4M2I4N2M0YzVlYTExMXw0ZDgzYjg3YzRjNWVhMTExfDQ2Mg=="
+    },
+    {
+      "key": "电影",
+      "name": "泰酷了😘",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9jOHcyb3Y3dTV3ZzJ6MW84cDIxYy5hbGl5dW5jcy5jbGljazoyNzg5OXxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
+    },
+     {
+      "key": "格格",
+      "name": "还珠格格😜",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTAvYXBpLnBocHxhc2djeGhqa3RzMTI0NTczfGFzZ2N4aGprdHMxMjQ1NzN8MTE5"
+    },
+     {
+      "key": "蝴蝶",
+      "name": "花蝴蝶😁",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
+     {
+      "key": "移动",
+      "name": "合集大杂烩😚",
+      "type": 3,
+      "api": "csp_YD",
+      "searchable": 1,
+      "quickSearch": 1
+    },
    {
       "key": "量子",
       "name": "少说话😎多做事",
@@ -78,6 +134,14 @@
         "伦理片"
       ]
     },
+   //  {"key":"zp123",
+   //    "name":"🔞福利资源",
+   //    "type":0,
+   //   "api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
+   //   "searchable":1,
+   //   "quickSearch":1,
+   //   "filterable":0
+   // },
   {
       "key": "火车影视",
       "name": "不定时🈲更新福利哈哈哈",
