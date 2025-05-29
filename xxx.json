@@ -1,6 +1,6 @@
 
 {
-"spider":"./jar/spider.jar",
+
 "wallpaper": "生活就像骑自行车，想不摔倒，就得一直蹬。",
 
 "lives":[
@@ -81,7 +81,7 @@
     },
     {
       "key": "电影",
-      "name": "泰酷了😘",
+      "name": "泰酷了😘蓝光专享",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
@@ -102,6 +102,13 @@
       "api": "csp_Hudie",
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
+    {
+      "key": "可可影视",
+      "name": "可可😬影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./lib/KKYS.json"
     },
     {
       "key": "极速资源",
@@ -145,7 +152,7 @@
     },
    {
       "key": "量子",
-      "name": "少说话😎多做事",
+      "name": "正人君子🍭",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -157,7 +164,7 @@
     },
     {
       "key": "非凡",
-      "name": "伦理三级👙",
+      "name": "伦理🌟🌟🌟",
       "type": 0,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -499,6 +506,7 @@
     "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
     "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
   ],
+   "spider":"./jar/spider.jar",
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
 
