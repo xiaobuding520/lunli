@@ -19,6 +19,46 @@
       "api": "csp_Douban",
       "searchable": 0
     },
+    {
+      "key": "星芽短剧",
+      "name": "星芽💖短剧",
+      "type": 3,
+      "jar" : "./jar/OK.jar",
+      "api": "csp_AppXYGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "韩圈",
+      "name": "韩剧🦄弹幕",
+      "type": 3,
+      "jar" : "./jar/OK.jar",
+      "api": "csp_HanXiaoQuanGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "厂长弹幕版",
+      "name": "厂长🐔弹幕",
+      "type": 3,
+      "jar" : "./jar/OK.jar",
+      "api": "csp_CzzyGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
   {
       "key": "二三",
       "name": "古片🐔短剧",
@@ -173,20 +213,20 @@
         "伦理片"
       ]
     },
-    {"key":"zp123",
-      "name":"🔞福利资源",
-      "type":0,
-     "api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":0
-   },
-       {
-      "key": "*AIvin",
-      "name": "🔞少儿不宜",
-      "type": 0,
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
-    },
+   //  {"key":"zp123",
+   //    "name":"🔞福利资源",
+   //    "type":0,
+   //   "api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
+   //   "searchable":1,
+   //   "quickSearch":1,
+   //   "filterable":0
+   // },
+   //     {
+   //    "key": "*AIvin",
+   //    "name": "🔞少儿不宜",
+   //    "type": 0,
+   //    "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
+   //  },
   {
       "key": "火车影视",
       "name": "不定时🈲更新福利哈哈哈",
