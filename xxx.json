@@ -19,55 +19,97 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-    {
-      "key": "星芽短剧",
-      "name": "星芽💖短剧",
+     {
+      "key": "厂长影视",
+      "name": "枸杞🐯厂长",
       "type": 3,
-      "jar" : "./jar/OK.jar",
-      "api": "csp_AppXYGuard",
+      "playerType": "2",
+      "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "timeout": 10
+      "ext": "https://www.czzymovie.com/"
     },
     {
-      "key": "韩圈",
-      "name": "韩剧🦄弹幕",
+      "key": "糯米影视",
+      "name": "猪肝🐷影视",
       "type": 3,
-      "jar" : "./jar/OK.jar",
-      "api": "csp_HanXiaoQuanGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn"
     },
     {
-      "key": "厂长弹幕版",
-      "name": "厂长🐔弹幕",
+      "key": "私人影视",
+      "name": "私人😋影视",
       "type": 3,
-      "jar" : "./jar/OK.jar",
-      "api": "csp_CzzyGuard",
+      "api": "csp_Siren"
+    },
+    {
+      "key": "云播影视",
+      "name": "云播😋影视",
+      "type": 3,
+      "api": "csp_Tvyb"
+    },
+    {
+      "key": "奇优影视",
+      "name": "奇优😋影视",
+      "type": 3,
+      "api": "csp_Qiyou"
+    },
+    {
+      "key": "苹果影视",
+      "name": "苹果😋影视",
+      "type": 3,
+      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
+      "filterable": 1
     },
-  {
-      "key": "二三",
-      "name": "古片🐔短剧",
+    {
+      "key": "全网影视",
+      "name": "全看😋影视",
       "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
+      "api": "csp_Quanwk",
+      "ext": "https://www.91qkw.com"
+    },
+    {
+      "key": "饺子影视",
+      "name": "饺子😋影视",
+      "type": 3,
+      "api": "csp_Jiaozi",
+      "playerType": 2
+    },
+    {
+      "key": "金牌影视",
+      "name": "金牌😋影视",
+      "type": 3,
+      "api": "csp_Jpys"
+    },
+    {
+      "key": "尘落影视",
+      "name": "尘落😋影视",
+      "type": 3,
+      "api": "csp_Wetv",
       "searchable": 1,
-      "changeable": 1,
-      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+      "quickSearch": 1,
+      "ext": "https://v.wetv.wang"
+    },
+    {
+      "key": "低端影视",
+      "name": "低端😋影视",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "快看影视",
+      "name": "快看😋影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "时常",
@@ -88,28 +130,12 @@
       "ext": "jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
     },
     {
-      "key": "玉米",
-      "name": "超多🐔线路",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="
-    },
-    {
       "key": "木叶",
       "name": "尊嘟😊",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
       "ext": "saHR0cDovLzExMy40NS4yNDMuMjMzL211eWUudHh0fFJ1TjlMUnZ3VFJncFFucEt8UnVOOUxSdndUUmdwUW5wS3w1NDc="
-    },
-    {
-      "key": "米兔",
-      "name": "备胎😃",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cHM6Ly93d3cuempjLmFwcHxhYjRlOWE0MjE2NzVmMTRifGFiNGU5YTQyMTY3NWYxNGJ8NDQy"
     },
      {
       "key": "光速",
@@ -189,6 +215,34 @@
       "api": "csp_YD",
       "searchable": 1,
       "quickSearch": 1
+    },
+    {
+      "key": "曼波动漫",
+      "name": "曼波🐮动漫",
+      "type": 3,
+      "api": "csp_Xdai",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "jaHR0cHM6Ly9hcHAub21vZnVuMS50b3AvYXBpLnBocHw2NmRjMzA5Y2JlZWNhNDU0fDY2ZGMzMDljYmVlY2E0NTR8MTAw"
+    },
+    {
+      "key": "稀饭动漫",
+      "name": "稀饭🐮动漫",
+      "type": 3,
+      "api": "csp_Xdai",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "jaHR0cHM6Ly94ZmFwcC0xMzA1MzkwMDY1LmNvcy5hcC1ndWFuZ3pob3UubXlxY2xvdWQuY29tL2dldGFwcC50eHR8MXlaMlNwbjlrcm56VktvQ3wxeVoyU3BuOWtybnpWS29DfDEwMA=="
+    },
+    {
+      "key": "咕咕动漫",
+      "name": "咕咕🐮动漫",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly93d3cuZ3VndTMuY29tfG5LZlo4S1g2SlROV1J6VER8bktmWjhLWDZKVE5XUnpURHw0MDE="
     },
    {
       "key": "量子",
