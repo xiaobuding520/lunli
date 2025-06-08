@@ -218,7 +218,7 @@
     },
     {
       "key": "来看影视",
-      "name": "来看｜影视",
+      "name": "来看❄影视",
       "type": 3,
       "api": "csp_Lkdy",
       "searchable": 1,
@@ -227,7 +227,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "瓜子｜影视",
+      "name": "瓜子❄影视",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -236,7 +236,7 @@
     },
     {
       "key": "爱看机器人",
-      "name": "爱看｜影视",
+      "name": "爱看❄影视",
       "type": 3,
       "api": "csp_Ikanbot",
       "searchable": 1,
@@ -245,49 +245,49 @@
     },
     {
       "key": "农民影视",
-      "name": "农民｜影视",
+      "name": "农民❄影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/NMYS.json"
     },
     {
       "key": "秀儿影视",
-      "name": "秀儿｜影视",
+      "name": "秀儿❄影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/XEYS.json"
     },
     {
       "key": "海纳影视",
-      "name": "海纳｜影视",
+      "name": "海纳❄影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/HNYS.json"
     },
     {
       "key": "面包影视",
-      "name": "面包｜影视",
+      "name": "面包❄影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/MBYS.json"
     },
     {
       "key": "永乐影视",
-      "name": "永乐｜影视",
+      "name": "永乐❄影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/YLYS.json"
     },
     {
       "key": "雪糕影视",
-      "name": "雪糕｜影视",
+      "name": "雪糕❄影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/XGYS.json"
     },
     {
       "key": "八号影视",
-      "name": "八号｜影视",
+      "name": "八号❄影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -297,7 +297,7 @@
     },
     {
       "key": "盒子影视",
-      "name": "盒子｜影视",
+      "name": "盒子❄影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -307,7 +307,7 @@
     },
     {
       "key": "1905",
-      "name": "1905｜影视",
+      "name": "1905❄影视",
       "type": 3,
       "api": "csp_Web1905",
       "searchable": 1,
@@ -316,7 +316,7 @@
     },
     {
       "key": "电影港",
-      "name": "电影港｜磁力",
+      "name": "电影港❄磁力",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
