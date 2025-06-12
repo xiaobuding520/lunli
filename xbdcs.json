@@ -21,6 +21,14 @@
       "searchable": 0
     },
     {
+      "key": "Pan1",
+      "name": "电视┃直播",
+      "type": 3,
+      "searchable": 0,
+      "api": "./lib/live2vod.js",
+      "ext": "./lib/biaobuding.json"
+    },
+    {
       "key": "duanju",
       "name": "🍭星芽┃短剧┃热推",
       "type": 3,
