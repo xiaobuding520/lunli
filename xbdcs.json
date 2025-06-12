@@ -559,7 +559,7 @@
    //    "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
    //  },
    {
-      "key": "應用商店",
+      "key": "海绵",
       "name": "應用商店",
       "type": 3,
       "api": "csp_Market",
