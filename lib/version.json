@@ -5,6 +5,14 @@
       {
         "url": "https://www.yotu.net/i/684a7f6b3b724.jpg",
         "icon": "https://www.yotu.net/i/684a7f6b3b724.jpg"
+      },
+      {
+        "url": "https://www.yotu.net/i/684a7f6b3b724.jpg",
+        "icon": "https://www.yotu.net/i/684a7f6b3b724.jpg"
+      }
+      {
+        "url": "https://www.yotu.net/i/684a7f6b3b724.jpg",
+        "icon": "https://www.yotu.net/i/684a7f6b3b724.jpg"
       }
     ]
   },
@@ -60,69 +68,69 @@
         "version": "小布丁"
       }
     ]
-  },
-  {
-    "name": "內測版",
-    "list": [
-      {
-        "name": "電視-java",
-        "url": "https://fm.caioa.link/main/apk/dev/leanback-java-armeabi_v7a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-        "version": "小布丁"
-      },
-      {
-        "name": "電視-java",
-        "url": "https://fm.caioa.link/main/apk/dev/leanback-java-arm64_v8a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-        "version": "小布丁"
-      },
-      {
-        "name": "電視-py",
-        "url": "https://fm.caioa.link/main/apk/dev/leanback-python-armeabi_v7a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-        "version": "小布丁"
-      },
-      {
-        "name": "電視-py",
-        "url": "https://fm.caioa.link/main/apk/dev/leanback-python-arm64_v8a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-        "version": "小布丁"
-      },
-      {
-        "name": "手機-java",
-        "url": "https://fm.caioa.link/main/apk/dev/mobile-java-armeabi_v7a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-        "version": "小布丁"
-      },
-      {
-        "name": "手機-java",
-        "url": "https://fm.caioa.link/main/apk/dev/mobile-java-arm64_v8a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-        "version": "小布丁"
-      },
-      {
-        "name": "手機-py",
-        "url": "https://fm.caioa.link/main/apk/dev/mobile-python-armeabi_v7a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-        "version": "小布丁"
-      },
-      {
-        "name": "手機-py",
-        "url": "https://fm.caioa.link/main/apk/dev/mobile-python-arm64_v8a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-        "version": "小布丁"
-      }
-    ]
-  },
-  {
-    "name": "4.x版",
-    "list": [
-      {
-        "name": "電視",
-        "url": "https://fm.caioa.link/main/apk/kitkat/leanback.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-        "version": "小布丁"
-      }
-    ]
   }
+  // {
+  //   "name": "內測版",
+  //   "list": [
+  //     {
+  //       "name": "電視-java",
+  //       "url": "https://fm.caioa.link/main/apk/dev/leanback-java-armeabi_v7a.apk",
+  //       "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+  //       "version": "小布丁"
+  //     },
+  //     {
+  //       "name": "電視-java",
+  //       "url": "https://fm.caioa.link/main/apk/dev/leanback-java-arm64_v8a.apk",
+  //       "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+  //       "version": "小布丁"
+  //     },
+  //     {
+  //       "name": "電視-py",
+  //       "url": "https://fm.caioa.link/main/apk/dev/leanback-python-armeabi_v7a.apk",
+  //       "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+  //       "version": "小布丁"
+  //     },
+  //     {
+  //       "name": "電視-py",
+  //       "url": "https://fm.caioa.link/main/apk/dev/leanback-python-arm64_v8a.apk",
+  //       "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+  //       "version": "小布丁"
+  //     },
+  //     {
+  //       "name": "手機-java",
+  //       "url": "https://fm.caioa.link/main/apk/dev/mobile-java-armeabi_v7a.apk",
+  //       "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+  //       "version": "小布丁"
+  //     },
+  //     {
+  //       "name": "手機-java",
+  //       "url": "https://fm.caioa.link/main/apk/dev/mobile-java-arm64_v8a.apk",
+  //       "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+  //       "version": "小布丁"
+  //     },
+  //     {
+  //       "name": "手機-py",
+  //       "url": "https://fm.caioa.link/main/apk/dev/mobile-python-armeabi_v7a.apk",
+  //       "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+  //       "version": "小布丁"
+  //     },
+  //     {
+  //       "name": "手機-py",
+  //       "url": "https://fm.caioa.link/main/apk/dev/mobile-python-arm64_v8a.apk",
+  //       "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+  //       "version": "小布丁"
+  //     }
+  //   ]
+  // },
+  // {
+  //   "name": "4.x版",
+  //   "list": [
+  //     {
+  //       "name": "電視",
+  //       "url": "https://fm.caioa.link/main/apk/kitkat/leanback.apk",
+  //       "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+  //       "version": "小布丁"
+  //     }
+  //   ]
+  // }
 ]
