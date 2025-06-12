@@ -3,8 +3,8 @@
     "name": "推薦",
     "list": [
       {
-        "url": "https://i.imgs.ovh/2023/10/19/2mfxN.jpeg",
-        "icon": "https://i.imgs.ovh/2023/10/19/2mfxN.jpeg"
+        "url": "https://www.sojson.com/",
+        "icon": "../jpg/2.png"
       }
     ]
   },
@@ -12,10 +12,10 @@
     "name": "正式版",
     "list": [
       {
-        "name": "電視-java",
-        "url": "https://fm.caioa.link/main/apk/release/leanback-java-armeabi_v7a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-        "version": "v7a"
+        "name": "小布丁同学",
+        "url": "https://www.sojson.com/",
+        "icon": "../jpg/2.png",
+        "version": "2.9.9"
       },
       {
         "name": "電視-java",
