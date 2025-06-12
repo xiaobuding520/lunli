@@ -18,13 +18,13 @@
         "version": "2.9.9"
       },
       {
-        "name": "電視-java",
+        "name": "12-java",
         "url": "https://fm.caioa.link/main/apk/release/leanback-java-arm64_v8a.apk",
         "icon": "./jpg/2.png",
         "version": "v8a"
       },
       {
-        "name": "電視-py",
+        "name": "13-py",
         "url": "https://fm.caioa.link/main/apk/release/leanback-python-armeabi_v7a.apk",
         "icon": "https://www.yotu.net/i/684a7f6b3b724.jpg",
         "version": "v7a"
