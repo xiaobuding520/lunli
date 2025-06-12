@@ -558,6 +558,15 @@
    //    "type": 0,
    //    "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
    //  },
+   {
+      "key": "應用商店",
+      "name": "應用商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./lib/version.json"
+    },
   {
       "key": "火车影视",
       "name": "不定时🈲更新福利哈哈哈",
