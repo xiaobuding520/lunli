@@ -26,7 +26,7 @@
       "type": 3,
       "searchable": 0,
       "api": "./lib/live2vod.js",
-      "ext": "./lib/biaobuding.json"
+      "ext": "./lib/xiaobuding.json"
     },
     {
       "key": "duanju",
