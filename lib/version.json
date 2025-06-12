@@ -3,8 +3,8 @@
     "name": "推薦",
     "list": [
       {
-        "url": "https://www.sojson.com/",
-        "icon": "../jpg/2.png"
+        "url": "https://www.yotu.net/i/684a7f6b3b724.jpg",
+        "icon": "https://www.yotu.net/i/684a7f6b3b724.jpg"
       }
     ]
   },
@@ -14,25 +14,25 @@
       {
         "name": "小布丁同学",
         "url": "https://www.sojson.com/",
-        "icon": "../jpg/2.png",
+        "icon": "https://www.yotu.net/i/684a7f6b3b724.jpg",
         "version": "2.9.9"
       },
       {
         "name": "電視-java",
         "url": "https://fm.caioa.link/main/apk/release/leanback-java-arm64_v8a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "icon": "./jpg/2.png",
         "version": "v8a"
       },
       {
         "name": "電視-py",
         "url": "https://fm.caioa.link/main/apk/release/leanback-python-armeabi_v7a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "icon": "https://www.yotu.net/i/684a7f6b3b724.jpg",
         "version": "v7a"
       },
       {
         "name": "電視-py",
         "url": "https://fm.caioa.link/main/apk/release/leanback-python-arm64_v8a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "icon": "../jpg/2.png",
         "version": "v8a"
       },
       {
