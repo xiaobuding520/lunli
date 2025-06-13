@@ -20,14 +20,14 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-    {
-      "key": "Pan1",
-      "name": "电视┃直播",
-      "type": 3,
-      "searchable": 0,
-      "api": "./lib/live2vod.js",
-      "ext": "./lib/xiaobuding.json"
-    },
+    // {
+    //   "key": "Pan1",
+    //   "name": "电视┃直播",
+    //   "type": 3,
+    //   "searchable": 0,
+    //   "api": "../lib/live2vod.js",
+    //   "ext": "../lib/biaobuding.json"
+    // },
     {
       "key": "duanju",
       "name": "🍭星芽┃短剧┃热推",
@@ -64,7 +64,7 @@
       "key": "虎牙直播js",
       "name": "📱虎牙┃娱乐┃蓝光",
       "type": 3,
-      "jar": "./jar/my.jar",
+      "jar": "../jar/my.jar",
       "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
       "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
       "style": {
@@ -81,7 +81,7 @@
       "key": "Bili",
       "name": "🅱哔哩┃合集┃弹幕",
       "type": 3,
-      "jar": "./jar/my.jar",
+      "jar": "../jar/my.jar",
       "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
@@ -98,7 +98,7 @@
       "key": "Biliych",
       "name": "🅱哔哩┃歌曲┃弹幕",
       "type": 3,
-      "jar": "./jar/my.jar",
+      "jar": "../jar/my.jar",
       "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
@@ -266,7 +266,7 @@
       "name": "可可😬影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/KKYS.json"
+      "ext": "../lib/KKYS.json"
     },
     {
       "key": "极速资源",
@@ -340,42 +340,42 @@
       "name": "农民❄影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/NMYS.json"
+      "ext": "../lib/NMYS.json"
     },
     {
       "key": "秀儿影视",
       "name": "秀儿❄影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/XEYS.json"
+      "ext": "../lib/XEYS.json"
     },
     {
       "key": "海纳影视",
       "name": "海纳❄影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/HNYS.json"
+      "ext": "../lib/HNYS.json"
     },
     {
       "key": "面包影视",
       "name": "面包❄影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/MBYS.json"
+      "ext": "../lib/MBYS.json"
     },
     {
       "key": "永乐影视",
       "name": "永乐❄影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/YLYS.json"
+      "ext": "../lib/YLYS.json"
     },
     {
       "key": "雪糕影视",
       "name": "雪糕❄影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/XGYS.json"
+      "ext": "../lib/XGYS.json"
     },
     {
       "key": "八号影视",
@@ -385,7 +385,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/BHYS.json"
+      "ext": "../lib/BHYS.json"
     },
     {
       "key": "盒子影视",
@@ -395,7 +395,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/HZYS.json"
+      "ext": "../lib/HZYS.json"
     },
     {
       "key": "1905",
@@ -414,13 +414,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/DYG.json"
+      "ext": "../lib/DYG.json"
     },
     {
       "key": "贱贱",
       "name": "🐤荐片┃速览┃纯净",
       "type": 3,
-      "jar": "./jar/my.jar",
+      "jar": "../jar/my.jar",
       "api": "csp_JPJGuard",
       "playerType": 2,
       "searchable": 1,
@@ -431,7 +431,7 @@
       "key": "白白",
       "name": "🐤白白┃秒播┃纯净",
       "type": 3,
-      "jar": "./jar/my.jar",
+      "jar": "../jar/my.jar",
       "api": "csp_SbaibaiGuard",
       "playerType": 2,
       "searchable": 1,
@@ -442,7 +442,7 @@
       "key": "比特",
       "name": "🐤比特┃秒播┃纯净",
       "type": 3,
-      "jar": "./jar/my.jar",
+      "jar": "../jar/my.jar",
       "api": "csp_BttwooGuard",
       "searchable": 1,
       "quickSearch": 1,
@@ -463,7 +463,7 @@
       "key": "Aid",
       "name": "🚑️急救┃常识┃教育",
       "type": 3,
-      "jar": "./jar/my.jar",
+      "jar": "../jar/my.jar",
       "api": "csp_FirstAidGuard",
       "searchable": 0,
       "quickSearch": 0,
@@ -505,7 +505,7 @@
       "key": "去看吧",
       "name": "🐸看吧┃动漫┃蓝光",
       "type": 3,
-      "jar": "./jar/my.jar",
+      "jar": "../jar/my.jar",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/去看吧.js"
     },
@@ -513,7 +513,7 @@
       "key": "csp_Ysj",
       "name": "🐸异界┃动漫┃蓝光",
       "type": 3,
-      "jar": "./jar/my.jar",
+      "jar": "../jar/my.jar",
       "api": "csp_YsjGuard",
       "searchable": 1,
       "quickSearch": 1,
@@ -523,7 +523,7 @@
       "key": "csp_Anime1",
       "name": "🐸日漫┃动漫┃蓝光",
       "type": 3,
-      "jar": "./jar/my.jar",
+      "jar": "../jar/my.jar",
       "api": "csp_Anime1Guard",
       "searchable": 1,
       "quickSearch": 1,
@@ -536,7 +536,7 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
-      "jar" : "./jar/XYQ.jar",
+      "jar" : "../jar/XYQ.jar",
       "categories": [
         "伦理片"
       ]
@@ -552,29 +552,46 @@
         "伦理片"
       ]
     },
-   //  {"key":"zp123",
-   //    "name":"🔞福利资源",
-   //    "type":0,
-   //   "api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
-   //   "searchable":1,
-   //   "quickSearch":1,
-   //   "filterable":0
-   // },
-   //     {
-   //    "key": "*AIvin",
-   //    "name": "🔞少儿不宜",
-   //    "type": 0,
-   //    "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
-   //  },
-   {
-      "key": "海绵",
-      "name": "💗更新记录💗",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./lib/version.json"
+    {"key":"zp123",
+      "name":"🔞福利资源-梯子",
+      "type":0,
+     "api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":0
+   },
+       {
+      "key": "*AIvin",
+      "name": "🔞少儿不宜-梯子",
+      "type": 0,
+      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
     },
+        {
+      "key": "*色南国资源",
+      "name": "🔞麻麻得-梯子",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+        {
+      "key": "pgxdy",
+      "name": "🔞精品-梯子",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   // {
+   //    "key": "海绵",
+   //    "name": "💗更新记录💗",
+   //    "type": 3,
+   //    "api": "csp_Market",
+   //    "searchable": 0,
+   //    "changeable": 0,
+   //    "ext": "../lib/version.json"
+   //  },
   {
       "key": "火车影视",
       "name": "不定时🈲更新福利哈哈哈",
@@ -900,7 +917,7 @@
     "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
     "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
   ],
-   "spider":"./jar/spider.jar",
+   "spider":"../jar/spider.jar",
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
 
