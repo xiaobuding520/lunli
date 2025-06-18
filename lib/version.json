@@ -22,7 +22,7 @@
       {
         "name": "更新时间6-9",
         "url": "",
-        "icon": "./jpg/8.jpg",
+        "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/8.jpg",
         "version": "小布丁"
       },
       {
@@ -34,103 +34,40 @@
       {
         "name": "更新时间6-7",
         "url": "",
-        "icon": "/jpg/6.jpg",
+        "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/6.jpg",
         "version": "小布丁"
       },
       {
         "name": "更新时间6-3",
         "url": "",
-        "icon": "../jpg/5.jpg",
+        "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/5.jpg",
         "version": "小布丁"
       },
       {
         "name": "更新时间6-1",
         "url": "",
-        "icon": "../jpg/4.jpg",
+        "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/4.jpg",
         "version": "小布丁"
       },
       {
         "name": "更新时间5-27",
         "url": "",
-        "icon": "../jpg/3.jpg",
+        "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/3.jpg",
         "version": "小布丁"
       },
       {
         "name": "更新时间5-25",
         "url": "",
-        "icon": "../jpg/2.jpg",
+        "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/2.jpg",
         "version": "小布丁"
       },
       {
         "name": "更新时间5-20",
         "url": "",
-        "icon": "../jpg/1.jpg",
+        "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/1.jpg",
         "version": "小布丁"
       }
     ]
   }
-  // {
-  //   "name": "內測版",
-  //   "list": [
-  //     {
-  //       "name": "電視-java",
-  //       "url": "",
-  //       "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-  //       "version": "小布丁"
-  //     },
-  //     {
-  //       "name": "電視-java",
-  //       "url": "",
-  //       "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-  //       "version": "小布丁"
-  //     },
-  //     {
-  //       "name": "電視-py",
-  //       "url": "",
-  //       "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-  //       "version": "小布丁"
-  //     },
-  //     {
-  //       "name": "電視-py",
-  //       "url": "",
-  //       "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-  //       "version": "小布丁"
-  //     },
-  //     {
-  //       "name": "手機-java",
-  //       "url": "",
-  //       "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-  //       "version": "小布丁"
-  //     },
-  //     {
-  //       "name": "手機-java",
-  //       "url": "",
-  //       "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-  //       "version": "小布丁"
-  //     },
-  //     {
-  //       "name": "手機-py",
-  //       "url": "",
-  //       "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-  //       "version": "小布丁"
-  //     },
-  //     {
-  //       "name": "手機-py",
-  //       "url": "",
-  //       "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-  //       "version": "小布丁"
-  //     }
-  //   ]
-  // },
-  // {
-  //   "name": "4.x版",
-  //   "list": [
-  //     {
-  //       "name": "電視",
-  //       "url": "",
-  //       "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-  //       "version": "小布丁"
-  //     }
-  //   ]
-  // }
+  
 ]
