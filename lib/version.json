@@ -22,19 +22,19 @@
       {
         "name": "更新时间6-9",
         "url": "",
-        "icon": "../jpg/8.jpg",
+        "icon": "./jpg/8.jpg",
         "version": "小布丁"
       },
       {
         "name": "更新时间6-8",
         "url": "",
-        "icon": "../jpg/7.jpg",
+        "icon": "./jpg/7.jpg",
         "version": "小布丁"
       },
       {
         "name": "更新时间6-7",
         "url": "",
-        "icon": "../jpg/6.jpg",
+        "icon": "./jpg/6.jpg",
         "version": "小布丁"
       },
       {
