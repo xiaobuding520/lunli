@@ -13,5 +13,5 @@
 	// {"name":"Gather.MyTV","url":"http://127.0.0.1:10079/c/60/proxy/https://tv.iill.top/m3u/MyTV"},
 	// {"name":"范明明OfficalSite","url":"http://127.0.0.1:10079/p/0/proxy/https://live.fanmingming.com/tv/m3u/global.m3u"},
 	// {"name":"范明明GitHub","url":"http://127.0.0.1:10079/c/3600/proxy/https://mirror.ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"},
-	{"name":"直播源易失效，早看早享受","url":""}
+	{"name":"直播源易失效-早看早享受","url":""}
 ]
