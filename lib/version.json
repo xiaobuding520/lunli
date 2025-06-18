@@ -28,13 +28,13 @@
       {
         "name": "更新时间6-8",
         "url": "",
-        "icon": "./jpg/7.jpg",
+        "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/7.jpg",
         "version": "小布丁"
       },
       {
         "name": "更新时间6-7",
         "url": "",
-        "icon": "./jpg/6.jpg",
+        "icon": "/jpg/6.jpg",
         "version": "小布丁"
       },
       {
