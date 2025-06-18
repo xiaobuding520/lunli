@@ -19,14 +19,6 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-    // {
-    //   "key": "Pan1",
-    //   "name": "电视┃直播",
-    //   "type": 3,
-    //   "searchable": 0,
-    //   "api": "./lib/live2vod.js",
-    //   "ext": "./lib/biaobuding.json"
-    // },
      {
       "key": "海绵",
       "name": "💗更新记录💗",
@@ -35,6 +27,14 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "./lib/version.json"
+    },
+    {
+      "key": "Pan1",
+      "name": "📺电视仓库📺",
+      "type": 3,
+      "searchable": 0,
+      "api": "./lib/live2vod.js",
+      "ext": "./lib/xiaobuding.json"
     },
     {
       "key": "duanju",
