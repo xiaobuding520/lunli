@@ -1,68 +1,68 @@
 [
+  // {
+  //   "name": "推薦",
+  //   "list": [
+  //     {
+  //       "url": "https://www.yotu.net/i/684a7f6b3b724.jpg",
+  //       "icon": "https://www.yotu.net/i/684a7f6b3b724.jpg"
+  //     },
+  //     {
+  //       "url": "https://www.yotu.net/i/684a7f6b3b724.jpg",
+  //       "icon": "https://www.yotu.net/i/684a7f6b3b724.jpg"
+  //     },
+  //     {
+  //       "url": "https://www.yotu.net/i/684a7f6b3b724.jpg",
+  //       "icon": "https://www.yotu.net/i/684a7f6b3b724.jpg"
+  //     }
+  //   ]
+  // },
   {
-    "name": "推薦",
+    "name": "源更新记录",
     "list": [
       {
-        "url": "https://www.yotu.net/i/684a7f6b3b724.jpg",
-        "icon": "https://www.yotu.net/i/684a7f6b3b724.jpg"
-      },
-      {
-        "url": "https://www.yotu.net/i/684a7f6b3b724.jpg",
-        "icon": "https://www.yotu.net/i/684a7f6b3b724.jpg"
-      },
-      {
-        "url": "https://www.yotu.net/i/684a7f6b3b724.jpg",
-        "icon": "https://www.yotu.net/i/684a7f6b3b724.jpg"
-      }
-    ]
-  },
-  {
-    "name": "更新记录",
-    "list": [
-      {
-        "name": "更新时间6-9",
+        "name": "2025-6-9",
         "url": "",
         "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/8.jpg",
         "version": ""
       },
       {
-        "name": "更新时间6-8",
+        "name": "2025-6-8",
         "url": "",
         "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/7.jpg",
         "version": ""
       },
       {
-        "name": "更新时间6-7",
+        "name": "2025-6-7",
         "url": "",
         "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/6.jpg",
         "version": ""
       },
       {
-        "name": "更新时间6-3",
+        "name": "2025-6-3",
         "url": "",
         "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/5.jpg",
         "version": ""
       },
       {
-        "name": "更新时间6-1",
+        "name": "2025-6-1",
         "url": "",
         "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/4.jpg",
         "version": ""
       },
       {
-        "name": "更新时间5-27",
+        "name": "2025-5-27",
         "url": "",
         "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/3.jpg",
         "version": ""
       },
       {
-        "name": "更新时间5-25",
+        "name": "2025-5-25",
         "url": "",
         "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/2.jpg",
         "version": ""
       },
       {
-        "name": "更新时间5-20",
+        "name": "2025-5-20",
         "url": "",
         "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/1.jpg",
         "version": ""
