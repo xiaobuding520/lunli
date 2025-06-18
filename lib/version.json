@@ -22,49 +22,49 @@
       {
         "name": "更新时间6-9",
         "url": "",
-        "icon": "./jpg/8.jpg",
+        "icon": "../jpg/8.jpg",
         "version": "小布丁"
       },
       {
         "name": "更新时间6-8",
         "url": "",
-        "icon": "./jpg/7.jpg",
+        "icon": "../jpg/7.jpg",
         "version": "小布丁"
       },
       {
         "name": "更新时间6-7",
         "url": "",
-        "icon": "./jpg/6.jpg",
+        "icon": "../jpg/6.jpg",
         "version": "小布丁"
       },
       {
         "name": "更新时间6-3",
         "url": "",
-        "icon": "./jpg/5.jpg",
+        "icon": "../jpg/5.jpg",
         "version": "小布丁"
       },
       {
         "name": "更新时间6-1",
         "url": "",
-        "icon": "./jpg/4.jpg",
+        "icon": "../jpg/4.jpg",
         "version": "小布丁"
       },
       {
         "name": "更新时间5-27",
         "url": "",
-        "icon": "./jpg/3.jpg",
+        "icon": "../jpg/3.jpg",
         "version": "小布丁"
       },
       {
         "name": "更新时间5-25",
         "url": "",
-        "icon": "./jpg/2.jpg",
+        "icon": "../jpg/2.jpg",
         "version": "小布丁"
       },
       {
         "name": "更新时间5-20",
         "url": "",
-        "icon": "./jpg/1.jpg",
+        "icon": "../jpg/1.jpg",
         "version": "小布丁"
       }
     ]
