@@ -553,20 +553,59 @@
       "ext": "./js/s/西瓜.json"
     },
     {
-      "key": "7点影视",
-      "name": "🀄7点影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "ext": "./js/s/7点.json"
-    },
-    {
       "key": "穷电影",
       "name": "🀄穷电影",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
       "ext": "./js/s/穷电影.json"
+    },
+    {
+      "key": "狐狸君",
+      "name": "🀄狐狸君",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./js/s/狐狸君.json"
+    },
+    {
+      "key": "白嫖1",
+      "name": "🀄无情影视1",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./js/s/白嫖1.json"
+    },
+    {
+      "key": "白嫖2",
+      "name": "🀄无情影视2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./js/s/白嫖2.json"
+    },
+    {
+      "key": "白嫖3",
+      "name": "🀄无情影视3",
+      "type": 3,
+      "ua": "okhttp/3.15",
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./js/s/白嫖3.json"
+    },
+    {
+      "key": "白嫖4",
+      "name": "🀄无情影视4",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./js/s/白嫖4.json"
     },
     {
       "key": "Aid",
