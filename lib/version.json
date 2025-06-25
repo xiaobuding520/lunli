@@ -20,9 +20,16 @@
     "name": "源更新记录",
     "list": [
       {
+        "name": "2025-6-25",
+        "url": "",
+        "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/11.jpg",
+        "version": ""
+      },
+      {
         "name": "2025-6-18",
         "url": "",
         "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/10.jpg",
+        "txt":"测试一下文字",
         "version": ""
       },
       {
