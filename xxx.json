@@ -15,7 +15,7 @@
 "sites":[
   {
       "key": "豆瓣",
-      "name": "英哥💖专用",
+      "name": "蒜鸟💖蒜鸟",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -353,43 +353,6 @@
       "playerType": 1,
       "ext": "jaHR0cHM6Ly93d3cuZ3VndTMuY29tfG5LZlo4S1g2SlROV1J6VER8bktmWjhLWDZKVE5XUnpURHw0MDE="
     },
-   {
-      "key": "量子",
-      "name": "正人君子🍭",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "jar" : "./jar/XYQ.jar",
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "非凡",
-      "name": "伦理🌟🌟🌟",
-      "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-   //  {"key":"zp123",
-   //    "name":"🔞福利资源",
-   //    "type":0,
-   //   "api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
-   //   "searchable":1,
-   //   "quickSearch":1,
-   //   "filterable":0
-   // },
-   //     {
-   //    "key": "*AIvin",
-   //    "name": "🔞少儿不宜",
-   //    "type": 0,
-   //    "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
-   //  },
   {
       "key": "火车影视",
       "name": "不定时🈲更新福利哈哈哈",
