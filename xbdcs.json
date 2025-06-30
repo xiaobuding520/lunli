@@ -697,7 +697,7 @@
       "key": "MiFunP",
       "name": "MiFunP🚛动漫",
       "type": 3,
-      "api": "./py/MiFunP.py",
+      "api": "./py/推特APP.py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
@@ -711,6 +711,17 @@
       "filterable": 1,
       "playerType": 2
     },
+
+    {
+      "key": "CliCli2",
+      "name": "CliCli🚛动漫2",
+      "type": 3,
+      "api": "./py/香蕉APP.py",
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+
     {
       "key": "哆啦",
       "name": "哆啦🚛新番社",
