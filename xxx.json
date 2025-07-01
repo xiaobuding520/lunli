@@ -2,7 +2,6 @@
 {
 
 "wallpaper": "https://bing.img.run/rand.php",
-"logo": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/logo/aying.gif",
 
 "lives":[
   {"name":"小布丁同学","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/JeansCyj/MyTVbox/refs/heads/main/live.txt"},
@@ -22,7 +21,7 @@
     },
      {
       "key": "厂长影视",
-      "name": "枸杞🐯厂长",
+      "name": "枸杞🐯失效",
       "type": 3,
       "playerType": "2",
       "api": "csp_Czsapp",
