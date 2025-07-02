@@ -14,7 +14,7 @@
 "sites":[
   {
       "key": "豆瓣",
-      "name": "牛马😍上岗2",
+      "name": "牛马😍上岗3",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -697,7 +697,7 @@
       "key": "MiFunP",
       "name": "MiFunP🚛动漫",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/leilingzero/moyu/refs/heads/master/ganggang/py/py_%E8%89%B2%E6%92%AD%E8%81%9A%E5%90%88.py",
+      "api": "https://raw.githubusercontent.com/bobyang3/tvbox/5a33618d3137927674b87b825fb0dd242be53cc0/py/py_%E9%BB%91%E6%96%99.py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
@@ -706,7 +706,7 @@
       "key": "CliCli",
       "name": "CliCli🚛动漫",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/jak0099/dr/refs/heads/master/py/app/%E5%9B%BD%E5%A4%96%E5%89%A7APP.py",
+      "api": "https://raw.githubusercontent.com/xiaolong-nihao/TV-Box/refs/heads/main/py/AKDJ.py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
