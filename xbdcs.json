@@ -14,7 +14,7 @@
 "sites":[
   {
       "key": "豆瓣",
-      "name": "牛马😍上岗3",
+      "name": "牛马😍上岗4",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -706,7 +706,7 @@
       "key": "CliCli",
       "name": "CliCli🚛动漫",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/xiaolong-nihao/TV-Box/refs/heads/main/py/AKDJ.py",
+      "api": "https://raw.githubusercontent.com/jak0099/dr/refs/heads/master/py/app/%E5%B0%8F%E8%8B%B9%E6%9E%9CAPP.py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
