@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "商店",
-      "name": "商店",
+      "name": "浮力模式",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
