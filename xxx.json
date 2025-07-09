@@ -19,16 +19,18 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-     {
-      "key": "厂长影视",
-      "name": "枸杞🐯失效",
+  {
+      "key": "厂长",
+      "name": "枸杞🐯厂长 已复活",
       "type": 3,
-      "playerType": "2",
-      "api": "csp_Czsapp",
+      "api": "csp_NewCzGuard",
+      "jar": "./jar/f0701.jar",
+      "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.czzymovie.com/"
+      "filterable": 0,
+      "changeable": 1
     },
     {
       "key": "糯米影视",
