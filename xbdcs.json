@@ -37,6 +37,20 @@
    "filterable": 1,
    "ext": "http://cmszcsj.lfytv.cn/api.php/app/"
    },
+   {
+            "key": "热播影视",
+            "name": "热播｜APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "jar": "https://ym.wya6.cn/tz/wyxsa.php;md5;ba958222255f69f002ccfdbcf7d4e7fd",
+
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
      {
       "key": "海绵",
       "name": "💗更新记录💗",
