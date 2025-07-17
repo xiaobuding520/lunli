@@ -27,34 +27,6 @@
       "searchable": 0,
       "changeable": 0
   },
-   {
-      "key": "腾讯视频",
-      "name": "🐸腾讯┃蓝光",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾讯弹幕.js"
-    },
- {
-      "key": "优酷视频",
-      "name": "🐸腾讯┃蓝光",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷弹幕.js"
-    },
-    {
-      "key": "芒果视频",
-      "name": "🐸腾讯┃蓝光",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/芒果弹幕.js"
-    },
-    {
-      "key": "爱奇艺",
-      "name": "🐸腾讯┃蓝光",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/爱奇艺弹幕.js"
-    },
      {
       "key": "海绵",
       "name": "💗更新记录💗",
@@ -78,6 +50,34 @@
       "searchable": 0,
       "api": "./lib/live2vod.js",
       "ext": "./lib/xiaobuding.json"
+    },
+    {
+      "key": "腾讯视频",
+      "name": "🐧某腾┃蓝光",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/腾讯弹幕.js"
+    },
+ {
+      "key": "优酷视频",
+      "name": "🐧某酷┃蓝光",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/优酷弹幕.js"
+    },
+    {
+      "key": "芒果视频",
+      "name": "🐧某果┃蓝光",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/芒果弹幕.js"
+    },
+    {
+      "key": "爱奇艺",
+      "name": "🐧某爱┃蓝光",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/爱奇艺弹幕.js"
     },
     {
       "key": "duanju",
@@ -111,6 +111,12 @@
       "filterable": 1,
       "playerType": 2
     },
+    {
+            "key": "网络直播",
+            "name": "五大神💝平台",
+            "type": 3,
+            "api": "./lib/wlzb.py"
+        },
     {
       "key": "虎牙直播js",
       "name": "📱虎牙┃娱乐┃蓝光",
@@ -700,7 +706,7 @@
   {
       "name": "臻享",
       "type": "1",
-      "url": "https://jx.xmflv.com/?url=",
+      "url": "https://www.ckplayer.vip/jiexi/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -756,9 +762,9 @@
       }
     },
     {
-      "name": "至臻",
+      "name": "小布丁",
       "type": 1,
-      "url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=dijnouxKNOQSTUWXY5&url=",
+      "url": "https://aibox.eu.org/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -785,9 +791,9 @@
       }
     },
     {
-      "name": "无双",
+      "name": "无广晨曦",
       "type": 1,
-      "url": "http://1.94.221.189:88/algorithm.php?url=",
+      "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "flag": [
           "hgvip"
