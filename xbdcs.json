@@ -28,13 +28,33 @@
       "changeable": 0
   },
    {
-      "key": "zp123",
+      "key": "腾讯视频",
       "name": "🐸腾讯┃蓝光",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾讯视频.js"
+      "ext": "./lib/腾讯弹幕.js"
     },
- 
+ {
+      "key": "优酷视频",
+      "name": "🐸腾讯┃蓝光",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/优酷弹幕.js"
+    },
+    {
+      "key": "芒果视频",
+      "name": "🐸腾讯┃蓝光",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/芒果弹幕.js"
+    },
+    {
+      "key": "爱奇艺",
+      "name": "🐸腾讯┃蓝光",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/爱奇艺弹幕.js"
+    },
      {
       "key": "海绵",
       "name": "💗更新记录💗",
@@ -680,7 +700,7 @@
   {
       "name": "臻享",
       "type": "1",
-      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+      "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -709,7 +729,7 @@
     {
       "name": "优选",
       "type": 1,
-      "url": "http://1.94.221.189:88/algorithm.php?url=",
+      "url": "https://jx.yparse.com/index.php?url=",
       "ext": {
         "flag": [
           "qq",
