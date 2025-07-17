@@ -28,11 +28,10 @@
       "changeable": 0
   },
    {
-      "key": "腾讯视频",
+      "key": "zp123",
       "name": "🐸腾讯┃蓝光",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-     "jar": "https://ym.wya6.cn/tz/wyxsa.php;md5;ba958222255f69f002ccfdbcf7d4e7fd",
       "ext": "./lib/腾讯视频.js"
     },
  
