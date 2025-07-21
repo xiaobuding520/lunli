@@ -59,13 +59,7 @@
       "ext": "./lib/qfjj.js"
     },
 
-     {
-      "key": "4k影视",
-      "name": "4k影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/4k影视.json"
-    },
+    
     {
       "key": "DJ音乐",
       "name": "DJ音乐",
@@ -80,20 +74,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/北川影视.js"
     },
-    {
-      "key": "毒舌影视",
-      "name": "毒舌影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/毒舌影视.json"
-    },
-     {
-      "key": "可可影视",
-      "name": "可可影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/可可影视.json"
-    },
+   
     {
       "key": "酷狗MV",
       "name": "酷狗MV",
@@ -109,27 +90,125 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/蜻蜓FM.js"
     },
-     {
-      "key": "喜马拉雅",
-      "name": "喜马拉雅",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/喜马拉雅.js"
-    },
+    //  {
+    //   "key": "喜马拉雅",
+    //   "name": "喜马拉雅",
+    //   "type": 3,
+    //   "api": "./lib/drpy2.min.js",
+    //   "ext": "./js/喜马拉雅.js"
+    // },
+    // {
+    //   "key": "相声随身听",
+    //   "name": "相声随身听",
+    //   "type": 3,
+    //   "api": "./lib/drpy2.min.js",
+    //   "ext": "./js/相声随身听.js"
+    // },
+    // {
+    //   "key": "种子音乐",
+    //   "name": "种子音乐",
+    //   "type": 3,
+    //   "api": "./lib/drpy2.min.js",
+    //   "ext": "./js/种子音乐.js"
+    // },
     {
-      "key": "相声随身听",
-      "name": "相声随身听",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/相声随身听.js"
-    },
-    {
-      "key": "种子音乐",
-      "name": "种子音乐",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/种子音乐.js"
-    },
+            "key": "哆啦新番社",
+            "name": "哆啦｜新番社",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "jar": "https://ym.wya6.cn/tz/wyxsa.php;md5;ba958222255f69f002ccfdbcf7d4e7fd",
+            "style": {
+                "type": "list"
+            },
+            "ext": "./lib/哆啦新番社.json"
+        },
+        {
+            "key": "56动漫",
+            "name": "56｜动漫",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/56动漫.js"
+        },
+        {
+            "key": "NT动漫",
+            "name": "NT｜动漫",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/NT动漫.js"
+        },
+        {
+            "key": "Anime1",
+            "name": "A1｜动漫",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/Anime1.js"
+        },
+        {
+            "key": "曼波动漫",
+            "name": "曼波｜动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar": "https://ym.wya6.cn/tz/wyxsa.php;md5;ba958222255f69f002ccfdbcf7d4e7fd",
+            "ext": {
+                "url": "https://app.omofun1.top",
+                "dataKey": "66dc309cbeeca454",
+                "dataIv": "66dc309cbeeca454",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "樱花动漫",
+            "name": "樱花｜动漫",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "jar": "https://ym.wya6.cn/tz/wyxsa.php;md5;ba958222255f69f002ccfdbcf7d4e7fd",
+            "ext": "./lib/樱花动漫.json"
+        },
+        {
+            "key": "巴士动漫",
+            "name": "巴士｜动漫",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://ym.wya6.cn/tz/wyxsa.php;md5;ba958222255f69f002ccfdbcf7d4e7fd",
+            "ext": "./lib/巴士动漫.json"
+        },
+        {
+            "key": "奇米动漫",
+            "name": "奇米｜动漫",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/奇米动漫.js"
+        },
+        {
+            "key": "花子动漫",
+            "name": "花子｜动漫",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/花子动漫.js"
+        },
+        {
+            "key": "动画片",
+            "name": "动画片｜动漫",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/动画片大全.js"
+        },
+        {
+            "key": "动漫岛",
+            "name": "动漫岛｜动漫",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/动漫岛.js"
+        },
+        {
+            "key": "爱弹幕",
+            "name": "爱弹幕｜动漫",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/爱弹幕.js"
+        },
     {
       "key": "有声小说吧",
       "name": "有声小说吧",
