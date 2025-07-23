@@ -44,18 +44,37 @@
       "searchable": 0
     },
     
-    
-{ "key": "热播影视", "name": "🤖热播影视", "type": 3,"jar":"./jar/xiaosa.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.rbotv.cn" } },
-{ "key": "天天影视", "name": "🤖天天影视", "type": 3,"jar":"./jar/xiaosa.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://tt.ysdqjs.cn" } },
-{ "key": "浪酷影视", "name": "🤖浪酷影视", "type": 3,"jar":"./jar/xiaosa.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.lkuys.cn" } },    {
+{ "key": "苹果影视", "name": "🤖香蕉影视|蓝光", "type": 3,"api": "csp_LiteApple", "jar":"./jar/xiaosa.jar","searchable": 1,"quickSearch": 0,"filterable": 1},   
+{ "key": "热播影视", "name": "🤖秒播影视|弹幕", "type": 3,"jar":"./jar/xiaosa.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.rbotv.cn" } },
+{ "key": "天天影视", "name": "🤖天天影视|弹幕", "type": 3,"jar":"./jar/xiaosa.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://tt.ysdqjs.cn" } },
+{ "key": "浪酷影视", "name": "🤖浪酷影视|弹幕", "type": 3,"jar":"./jar/xiaosa.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.lkuys.cn" } },
+{
         "key": "剧评",
-        "name": "💙蓝光┃秒播",
+        "name": "💙蓝光┃速播",
         "type": 3,
         "api": "csp_Jpys",
         "playerType": 1,
         "jar": "./jar/lh250524.jar",
         "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
+    {
+      "key": "js星芽短剧",
+      "name": "⛄星芽┃短剧┃热推",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/星芽短剧.js"
+    },
+    {
+      "key": "js星蓝莓短剧",
+      "name": "⛄草莓┃短剧┃热推",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/星芽短剧.js"
+    },
+    {"key": "甜圈短剧","name": "⛄甜圈┃短剧┃热推","type": 3,"api": "./py/甜圈短剧.py","jar": "./jar/tianquan.jar","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1,"playerType": 2},
+    {"key": "csp_蝶众短剧","name": "⛄蝶众┃短剧┃热推","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar": "./jar/xyqxbpq.jar","ext":"./json/蝶众短剧.json"},
+    {"key": "csp_五五短剧","name": "⛄五五┃短剧┃热推","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar": "./jar/xyqxbpq.jar","ext":"./json/五五短剧.json"},
+
     //  {
     //   "key": "喜马拉雅",
     //   "name": "喜马拉雅",
