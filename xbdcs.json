@@ -44,10 +44,10 @@
       "searchable": 0
     },
     
-// { "key": "苹果影视", "name": "🌹香蕉影视|蓝光", "type": 3,"api": "csp_LiteApple", "jar":"./jar/xiaosa.jar","searchable": 1,"quickSearch": 0,"filterable": 1},   
-{ "key": "热播影视", "name": "🌹秒播影视|弹幕", "type": 3,"api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.rbotv.cn" } },
-{ "key": "天天影视", "name": "🌹天天影视|弹幕", "type": 3,"api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://tt.ysdqjs.cn" } },
-{ "key": "浪酷影视", "name": "🌹浪酷影视|弹幕", "type": 3,"api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.lkuys.cn" } },
+{ "key": "苹果影视", "name": "🌹香蕉影视|蓝光", "type": 3,"api": "csp_LiteApple", "jar":"./jar/xiaosa.jar","searchable": 1,"quickSearch": 0,"filterable": 1},   
+{ "key": "热播影视", "name": "🌹秒播影视|弹幕", "type": 3,"jar":"./jar/xiaosa.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.rbotv.cn" } },
+{ "key": "天天影视", "name": "🌹天天影视|弹幕", "type": 3,"jar":"./jar/xiaosa.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://tt.ysdqjs.cn" } },
+{ "key": "浪酷影视", "name": "🌹浪酷影视|弹幕", "type": 3,"jar":"./jar/xiaosa.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.lkuys.cn" } },
 {
         "key": "剧评",
         "name": "💙蓝光┃速播",
@@ -76,7 +76,6 @@
     {"key": "csp_五五短剧","name": "⛄五五┃短剧┃热推","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar": "./jar/xyqxbpq.jar","ext":"./json/五五短剧.json"},
 
         
-
   {
       "key": "火车影视",
       "name": "不定时🈲更新福利哈哈哈",
