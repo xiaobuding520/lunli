@@ -21,9 +21,15 @@
     "name": "源更新记录",
     "list": [
       {
+        "name": "2025-7-28",
+        "url": "",
+        "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/25.jpg",
+        "version": ""
+      },
+       {
         "name": "2025-7-25",
         "url": "",
-        "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/23.jpg",
+        "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/24.jpg",
         "version": ""
       },
       {
