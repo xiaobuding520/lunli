@@ -391,9 +391,9 @@ function detail(tid) { // ⛵  港•澳•台
         		vod_pic: def_pic,
         		vod_content: tid,
         		vod_play_from: vod_play_from,
-        		vod_play_url: vod_play_url,
+        		vod_play_url: ,
         		vod_director: tips,
-        		vod_remarks: `直播转点播js-当前版本${VERSION}`,
+        		vod_remarks: `阿布影院宣誓${VERSION}`,
 			}]
 		});
 	}
@@ -452,9 +452,9 @@ function detail(tid) { // ⛵  港•澳•台
         vod_pic: def_pic,
         vod_content: tid,
         vod_play_from: vod_play_from,
-        vod_play_url: vod_play_url,
+        vod_play_url: ,
         vod_director: tips,
-        vod_remarks: `直播转点播js-当前版本${VERSION}`,
+        vod_remarks: `阿布影院宣誓${VERSION}`,
     };
 
     return JSON.stringify({
