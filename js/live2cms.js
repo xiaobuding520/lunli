@@ -22,11 +22,11 @@ String.prototype.rstrip = function (chars) {
 };
 const request_timeout = 5000;
 const RKEY = 'live2cms'; // 源的唯一标识
-const VERSION = 'live2cms 20230619';
+const VERSION = 'I love you 5201314';
 const UA = 'Mozilla/5.0'; //默认请求ua
 const __ext = {data_dict:{}};
-const tips = `\n直播转点播js-当前版本${VERSION}`;
-const def_pic = 'https://avatars.githubusercontent.com/u/130474269?v=4';
+const tips = `\n直播频道-当前版本${VERSION}`;
+const def_pic = 'https://mpimg.cn/view.php/c0115001fbf13ed72afb0edc4f8725de.jpg';
 
 /**
  * 存在数据库配置表里, key字段对应值value,没有就新增,有就更新,调用此方法会清除key对应的内存缓存
