@@ -448,13 +448,13 @@ function detail(tid) { // ⛵  港•澳•台
     let vod = {
         vod_id: tid,
         vod_name: vod_name+'|'+_tab,
-        type_name: "直播列表",
+        type_name: "不好不坏闷骚型",
         vod_pic: def_pic,
        
         vod_play_from: vod_play_from,
         vod_play_url: vod_play_url,
        
-        vod_remarks: `阿爱你影院宣誓${VERSION}`,
+        vod_remarks: `阿布影院宣誓${VERSION}`,
     };
 
     return JSON.stringify({
