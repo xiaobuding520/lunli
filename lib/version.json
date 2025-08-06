@@ -21,6 +21,12 @@
     "name": "源更新记录",
     "list": [
       {
+        "name": "2025-8-6",
+        "url": "",
+        "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/30.jpg",
+        "version": ""
+      },
+      {
         "name": "2025-8-5",
         "url": "",
         "icon": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/29.jpg",
@@ -193,5 +199,6 @@
   }
   
 ]
+
 
 
