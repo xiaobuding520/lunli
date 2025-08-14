@@ -1,5 +1,5 @@
 {
-    "class": [
+    "classes": [
         {
             "type_name": "潮剧",
             "type_id": "潮剧"
@@ -197,4 +197,5 @@
             "type_id": "高腔"
         }
     ]
+
 }
