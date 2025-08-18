@@ -1,0 +1,13 @@
+{
+	"warningText": "阿布影院",
+	"warnintText": "阿布影院-接口免费",
+	"urls": [
+		{
+		"name": "测试专用",
+		"url": "https://raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/mmjg.json"
+		}
+
+
+
+	]
+}
