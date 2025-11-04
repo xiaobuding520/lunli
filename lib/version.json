@@ -4,6 +4,18 @@
     "name": "源更新记录",
     "list": [
       {
+        "name": "2025-11-4",
+        "url": "",
+        "icon": "https://hub.glowp.xyz/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/53.jpg",
+        "version": ""
+      },
+      {
+        "name": "2025-11-2",
+        "url": "",
+        "icon": "https://hub.glowp.xyz/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/52.jpg",
+        "version": ""
+      },
+      {
         "name": "2025-10-30",
         "url": "",
         "icon": "https://hub.glowp.xyz/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/jpg/51.jpg",
@@ -308,6 +320,7 @@
   }
   
 ]
+
 
 
 
