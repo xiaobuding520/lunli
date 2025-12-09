@@ -238,7 +238,7 @@
             "key": "NIFA",
             "name": "阿牛影视",
             "type": 3,
-            "api": "./1js/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./1js/可视影院.js"
         },
 
