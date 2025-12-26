@@ -46,16 +46,16 @@
       "searchable": 0
     },
      {
-      "key": "juhe短剧",
-      "name": "聚合短剧",
-      "type": 3,
-      "api": "./js/jhdj.js",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
+   "key": "hipy_js_聚合短剧2",
+   "name": "聚合短剧2┃cat",
+   "type": 3,
+   "api": "./js/jjdj.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "order_num": 0,
+   "ext": ""
+  },
      {
       "key": "阿布影院2",
       "name": "阿布影院",
