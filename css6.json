@@ -1,13 +1,13 @@
 {
 
 "wallpaper": "https://api.zxki.cn/api/gqbjt?msg=美女3",
-"logo": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/refs/heads/main/logo/aying.gif",
+"logo": "https://gh-proxy.com/raw.bgithub.xyz/xiaobuding520/lunli/refs/heads/main/logo/aying.gif",
 
 "lives": [
     {
       "name": "阿布直播",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/xiaobuding520/lunli/rext",
+      "url": "https://gh-proxy.com/raw.bgithub.xyz/xiaobuding520/lunli/rext",
       "playerType": 1
     }
   ],
@@ -498,7 +498,7 @@
 {"key":"新腾极4k","name":"4k臻彩腾讯","type":3,"api":"https://gitee.com/ltby1/one/raw/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"http://14.103.129.80:999/暗黑4k奇迹/lib/暗黑4k奇迹.js"},{"key":"芒果弹幕","name":"4k臻彩芒果","type":3,"api":"https://gitee.com/ltby1/one/raw/master/lib/drpy2.min.js","ext":"http://14.103.129.80:999/暗黑4k奇迹/lib/暗黑4k奇迹mg.js"},
 {"key":"腾讯弹幕","name":"2K腾讯内置","searchable":1,"type":3,"api":"http://47.122.84.123:8808/tvbox/gitee/zokzishi-master/xs/js/drpy2.min.js","ext":"https://gitee.com/charming-person/tv/raw/master/tjx.js"},
 {"key":"guoguo","name":"2K芒果内置","type":3,"api":"https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"https://gitee.com/charming-person/tv/raw/master/bwmg.js"},
-{"key":"爱奇艺","name":"2K爱奇艺影","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","playUrl":"json:http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url=","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js"},
+{"key":"爱奇艺","name":"2K爱奇艺影","type":3,"api":"https://gh-proxy.com/https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.min.js","playUrl":"json:http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url=","ext":"https://gh-proxy.com/https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/爱奇艺.js"},
 {"key":"小镇","name":"2K小镇","type":3,"api":"csp_XBPQ","jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1275b576ff8340d0f20930745d5ac59c.jpg;md5;b8ccf68972d12e3983a93b35b4024345","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"http://dyxz.tv/"}},
 {"key":"幕启GET","name":"2K幕启","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","jar":"http://rihou.cc:88/jar/vox.jar","ext":{"host":"https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt","datakey":"37kj83zs1q16jk6t","api":2}},
 {"key":"看呗影视","name":"2K看呗","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","jar":"http://rihou.cc:88/jar/vox.jar","ext":{"host":"http://www.winter1.fun/","datakey":"abcdefghigklmn11"}},
@@ -833,8 +833,7 @@
     "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
   ],
    "spider":"./jar/spider.jar",
-   "msg" : "测试一下，哈哈哈",
-   //"notice":"😍😍哈哈哈，我也学会跑马灯了🚎，接下来让我来给大家讲个故事！！！从前有个山.........💞💞💞💞",
+
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
 
