@@ -4,6 +4,12 @@
     "name": "源更新记录",
     "list": [
       {
+        "name": "2026-01-11",
+        "url": "",
+        "icon": "https://github.catvod.com/raw.bgithub.xyz/xiaobuding520/lunli/refs/heads/main/jpg/82.jpg",
+        "version": ""
+      },
+      {
         "name": "2026-01-08",
         "url": "",
         "icon": "https://github.catvod.com/raw.bgithub.xyz/xiaobuding520/lunli/refs/heads/main/jpg/81.jpg",
@@ -488,6 +494,7 @@
   }
   
 ]
+
 
 
 
