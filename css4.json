@@ -34,7 +34,7 @@
       "name": "直播源测试",
       "type": 3,
       "searchable": 0,
-      "api": "https://pan.meil.wang/f/WQeiX/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.py",
+      "api": "./lib/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.py",
       "ext": ""
     },
   {
