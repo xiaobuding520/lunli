@@ -17,7 +17,7 @@ class Spider(Spider):
 
         try:
             # 读取txt文件
-            with open('https://pan.meil.wang/f/oxacW/zansang2.txt', 'r', encoding='utf-8') as f:
+            with open('zansang2.txt', 'r', encoding='utf-8') as f:
                 lines = f.readlines()
 
             current_genre = ""
