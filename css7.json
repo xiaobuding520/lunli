@@ -29,13 +29,13 @@
       "searchable": 0,
       "changeable": 0
   },
-    {
+   {
       "key": "万首音乐",
       "name": "🎧KTV点歌厅🎧",
       "type": 3,
       "searchable": 1,
-      "api": "./js/live2cms.js",
-      "ext": "./js/wanshouMV.json"
+      "api": "https://pan.meil.wang/f/Krpf2/live3cms.js",
+      "ext": "https://pan.meil.wang/f/npoiW/zb.json"
     },
   {
       "key": "火车影视",
